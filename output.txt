@@ -1,0 +1,52 @@
+[
+    {
+        "Name": "Umbria",
+        "ListingURL": "https://www.yelp.com/biz/umbria-irvine-3?osq=Apartments",
+        "ImageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/_A7KQZ45pgNVvarwPtwX-g/ls.jpg"
+    },
+    {
+        "Name": "The Alton Apartments",
+        "ListingURL": "https://www.yelp.com/biz/the-alton-apartments-irvine?osq=Apartments",
+        "ImageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/LHbZDt0UG-088Vmw9wIfdQ/ls.jpg"
+    },
+    {
+        "Name": "Metropolis",
+        "ListingURL": "https://www.yelp.com/biz/metropolis-irvine?osq=Apartments",
+        "ImageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/GLkL_qlZ63gaEn-BH_Q8uw/ls.jpg"
+    },
+    {
+        "Name": "3000 The Plaza",
+        "ListingURL": "https://www.yelp.com/biz/3000-the-plaza-irvine?osq=Apartments",
+        "ImageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/dk7wVuDPqE4dQB7KiBsBdw/ls.jpg"
+    },
+    {
+        "Name": "Main Street Village",
+        "ListingURL": "https://www.yelp.com/biz/main-street-village-irvine-2?osq=Apartments",
+        "ImageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/FdKPg0jeH4yrhV5ae6d-3g/ls.jpg"
+    },
+    {
+        "Name": "580 Anton",
+        "ListingURL": "https://www.yelp.com/biz/580-anton-costa-mesa?osq=Apartments",
+        "ImageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/103TV1cunXCUKdM3weuuuw/ls.jpg"
+    },
+    {
+        "Name": "Los Olivos at Irvine Spectrum",
+        "ListingURL": "https://www.yelp.com/biz/los-olivos-at-irvine-spectrum-irvine?osq=Apartments",
+        "ImageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/PoMYvNAbW6CjgN2wZkYSzQ/ls.jpg"
+    },
+    {
+        "Name": "Elements",
+        "ListingURL": "https://www.yelp.com/biz/elements-irvine-2?osq=Apartments",
+        "ImageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/1MNFaDqsUAtfRT3eEiSpvQ/ls.jpg"
+    },
+    {
+        "Name": "Park Place Apartment Homes",
+        "ListingURL": "https://www.yelp.com/biz/park-place-apartment-homes-irvine?osq=Apartments",
+        "ImageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/LjCTPmvOB7GA3OpPNmtZ6Q/ls.jpg"
+    },
+    {
+        "Name": "Shadow Oaks Apartment Homes",
+        "ListingURL": "https://www.yelp.com/biz/shadow-oaks-apartment-homes-irvine?osq=Apartments",
+        "ImageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/bWUNUWFpXFPytkPQiIUWdA/ls.jpg"
+    }
+]
